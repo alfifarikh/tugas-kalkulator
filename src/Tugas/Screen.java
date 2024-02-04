@@ -25,7 +25,7 @@ public class Screen extends Kalkulator {
         return;
     }
 
-        System.out.print("Masukkan Operator: ");
+        System.out.print("Masukkan Operator Bang: ");
     String inputOperator = input.nextLine();
 
         switch (inputOperator) {
